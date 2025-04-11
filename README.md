@@ -61,6 +61,6 @@ The app allows users to:
 
 ## Usage
 1. Enter a location (Zip Code, City name, etc.) in the search bar.
-2. View current weather and a 5-day forecast.
+2. View current weather and a 5-day forecast and export data in JSON or CSV format.
 3. Error messages will display for invalid input or API issues.
-4. Use backend API endpoints for full CRUD operations and export data in JSON or CSV format.
+4. Use backend API endpoints for full CRUD operations.
